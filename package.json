@@ -1,0 +1,11 @@
+{
+  "name": "extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.7",
+    "superagent": "^8.0.3"
+  }
+}
